@@ -1,3 +1,3 @@
 x = 5
 
-print("Hello NEW MACKBOOK!",x)
+print("First Python Project")
